@@ -1,0 +1,8 @@
+# Replace the placeholder with the project lead's GitHub username after publishing.
+* @project-lead
+
+# Add specialist owners when real usernames are known.
+# /docs/ @producer @game-designer
+# /Assets/Audio/ @audio-designer
+# /Assets/Art/ @3d-generalist
+# /Assets/Scripts/ @gameplay-programmer
