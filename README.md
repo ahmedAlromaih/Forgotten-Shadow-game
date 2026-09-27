@@ -1,6 +1,10 @@
 # Forgotten Shadow
 
 Design and production repository for a 2.5D action roguelite built around teleportation, elemental boss weaknesses, and the cost of losing one's identity. Gameplay is constrained to a side-view plane while reusable 3D characters, modular environments, lighting, and VFX reduce the volume of hand-drawn art.
+Team members:
+ahmed alromaih 202273060
+aalthukair 202253200
+Karrar Alqallaf s202267840
 
 ## Vertical-slice premise
 
